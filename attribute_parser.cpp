@@ -1,3 +1,10 @@
+/*
+ * url: https://www.hackerrank.com/challenges/attribute-parser/problem
+ * this was a fun one.
+ */
+
+
+
 #include <iostream>
 #include <string>
 #include <vector>

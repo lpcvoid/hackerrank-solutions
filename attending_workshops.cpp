@@ -1,3 +1,8 @@
+/*
+ * url: https://www.hackerrank.com/challenges/attending-workshops/problem
+ * crusty starting code, but I learned about a new algorithm here.
+ */
+
 #include<bits/stdc++.h>
 //have to do this because the main is not changable in this task.
 using namespace std;
